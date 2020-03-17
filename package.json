@@ -32,7 +32,7 @@
     "js-yaml": "^3.8.4",
     "recursive-readdir": "^2.1.0",
     "rimraf": "^2.2.8",
-    "stat-mode": "^0.2.0",
+    "stat-mode": "^0.3.0",
     "thunkify": "^2.1.2",
     "unyield": "0.0.1",
     "ware": "^1.2.0",
